@@ -6,7 +6,7 @@ from playsound import playsound
 import string
 import random
 letters = string.ascii_letters + string.digits
-textToplay = None
+
 
 
 def generateTemporaryFileName(fileNameSize=10):
